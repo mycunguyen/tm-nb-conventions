@@ -1,5 +1,6 @@
 # tm-nb-conventions
 Naive Bayes Assignment
+
 In this assignment we use Naive Bayes (NB) for its two greatest strengths:
 
 Exploration of a data set
